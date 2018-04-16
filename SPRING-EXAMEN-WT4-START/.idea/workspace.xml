@@ -15,8 +15,8 @@
       <file leaf-file-name="RedisController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/ap/spring/controller/RedisController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="41" column="42" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
+            <state relative-caret-position="149">
+              <caret line="36" column="88" selection-start-line="36" selection-start-column="81" selection-end-line="36" selection-end-column="88" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2861#2862#0" expanded="true" />
@@ -38,8 +38,8 @@
       <file leaf-file-name="SpringTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/edu/ap/spring/test/SpringTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="32" column="53" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="53" />
+            <state relative-caret-position="226">
+              <caret line="57" column="13" lean-forward="true" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -47,8 +47,8 @@
       <file leaf-file-name="MainApplication.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/ap/spring/MainApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="65" column="30" selection-start-line="65" selection-start-column="30" selection-end-line="65" selection-end-column="30" />
+            <state relative-caret-position="141">
+              <caret line="63" column="22" lean-forward="true" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -299,26 +299,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523882504068</updated>
-      <workItem from="1523882508021" duration="3562000" />
+      <workItem from="1523882508021" duration="4495000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SpringTest - 2018.04.16 at 15h 14m 21s.xml">
-      <configuration name="SpringTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SpringTest - 2018.04.16 at 15h 21m 19s.xml">
-      <configuration name="SpringTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SpringTest - 2018.04.16 at 15h 26m 12s.xml">
-      <configuration name="SpringTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SpringTest - 2018.04.16 at 15h 28m 25s.xml">
-      <configuration name="SpringTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SpringTest - 2018.04.16 at 15h 30m 25s.xml">
-      <configuration name="SpringTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SpringTest - 2018.04.16 at 15h 34m 14s.xml">
       <configuration name="SpringTest" configurationId="JUnit" />
     </history-entry>
@@ -328,9 +313,30 @@
     <history-entry file="SpringTest - 2018.04.16 at 15h 36m 30s.xml">
       <configuration name="SpringTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SpringTest - 2018.04.16 at 15h 42m 12s.xml">
+      <configuration name="SpringTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringTest - 2018.04.16 at 15h 45m 38s.xml">
+      <configuration name="SpringTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringTest - 2018.04.16 at 15h 48m 33s.xml">
+      <configuration name="SpringTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringTest - 2018.04.16 at 15h 50m 55s.xml">
+      <configuration name="SpringTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringTest - 2018.04.16 at 15h 53m 01s.xml">
+      <configuration name="SpringTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringTest - 2018.04.16 at 15h 55m 27s.xml">
+      <configuration name="SpringTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringTest - 2018.04.16 at 15h 57m 05s.xml">
+      <configuration name="SpringTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3562000" />
+    <option name="totallyTimeSpent" value="4495000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -353,11 +359,11 @@
       <window_info id="Image Layers" />
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info anchor="right" id="Bean Validation" />
       <window_info id="Web" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" />
@@ -378,13 +384,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/edu/ap/spring/MainApplication.java</url>
-          <line>57</line>
-          <properties />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="1" />
     </breakpoint-manager>
   </component>
@@ -396,17 +395,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ap/spring/MainApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="65" column="30" selection-start-line="65" selection-start-column="30" selection-end-line="65" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/edu/ap/spring/test/Singleton.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ap/spring/MainApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="63" column="22" lean-forward="true" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -425,15 +424,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/edu/ap/spring/test/SpringTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="32" column="53" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="53" />
+        <state relative-caret-position="226">
+          <caret line="57" column="13" lean-forward="true" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/ap/spring/controller/RedisController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="41" column="42" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
+        <state relative-caret-position="149">
+          <caret line="36" column="88" selection-start-line="36" selection-start-column="81" selection-end-line="36" selection-end-column="88" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#2861#2862#0" expanded="true" />

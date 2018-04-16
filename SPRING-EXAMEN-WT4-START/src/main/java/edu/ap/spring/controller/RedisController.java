@@ -38,9 +38,10 @@ public class RedisController {
         Map<Object, Object> map = service.hgetAll("inhaalExamen:000" + id + ":" + student);
 
         InhaalExamen examen = new InhaalExamen(student, exam, reason);
-        if(exist && map.get(student).equals(examen.getStudent()) && map.get(exam).equals(examen.getExam())) {
+        if(exist) {
             System.out.println("bestaat al");
-        } else if(exist) {
+        } else {
+            System.out.println("inhaalExamen:000" + id + ":" + student);
             service.hset("inhaalExamen:000" + id + ":" + student, "student", examen.getStudent());
             service.hset("inhaalExamen:000" + id + ":" + student, "exam", examen.getExam());
             service.hset("inhaalExamen:000" + id + ":" + student, "reason", examen.getReason());
