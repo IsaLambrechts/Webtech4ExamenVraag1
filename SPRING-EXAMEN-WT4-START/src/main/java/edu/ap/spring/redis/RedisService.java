@@ -31,16 +31,24 @@ public class RedisService {
  		return ops.get(key);
 	}
 
+	public Set<String> getKeys(String keys) {
+		return this.template.keys(keys);
+	}
+
 	public Map<Object, Object> hgetAll(String key) {
 		 return template.opsForHash().entries(key);
 	}
 	
-	public void hset(String key, Map<String, String> actors) {
-		template.opsForHash().putAll(key, actors);
+	public void hset(String key, String object, String value) {
+		template.opsForHash().put(key, object, value);
 	}
 	
 	public void sendMessage(String channel, String message) {
 		template.convertAndSend(channel, message);
+	}
+	
+	public Boolean hasKey(String key, String object) {
+		return template.opsForHash().hasKey(key, object);
 	}
 	
 	// Methods without Jedis interface
